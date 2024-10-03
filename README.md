@@ -1,4 +1,4 @@
-# Non-PTA-iPhone-Alternative
+# Non-PTA-iPhone Alternative
 Here is a way to use your NON-PTA iPhone to receive OTPs, text messages, and call notifications.
 This is a comprehensive guide or solution for users who own a Non-PTA iPhone in Pakistan and want to receive OTPs (One-Time Passwords), text messages, and call notifications without registering their device with PTA which costs around 150k these days.
 
